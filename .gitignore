@@ -25,3 +25,6 @@ logs
 
 # Rust
 target
+
+# tauri specta
+app/lib/bindings.ts
